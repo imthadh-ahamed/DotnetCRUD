@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dotnet-crud")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c162143c3dcc9e51864a17184509f83462a56f9f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d754ab853f3613c51e72e970253d6574b000959")]
 [assembly: System.Reflection.AssemblyProductAttribute("dotnet-crud")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dotnet-crud")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
