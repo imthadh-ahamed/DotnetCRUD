@@ -1,2 +1,4 @@
 /.vs
 /.git
+/dotnet-crud/bin
+/dotnet-crud/obj
