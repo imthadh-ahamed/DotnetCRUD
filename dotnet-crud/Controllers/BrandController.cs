@@ -24,5 +24,13 @@ namespace dotnet_crud.Controllers
             // This line will return the view
             return View(brands);
         }
+
+        // This method will be used to return the view
+        [HttpGet]
+        public IActionResult Create()
+        {
+            // This line will return the view
+            return View();
+        }
     }
 }
