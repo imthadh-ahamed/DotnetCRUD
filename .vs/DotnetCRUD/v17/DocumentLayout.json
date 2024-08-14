@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "E:\\GitHub\\DotnetCRUD\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D4178D32-39B7-42B8-A095-05D248ED8DE7}|dotnet-crud\\dotnet-crud.csproj|e:\\github\\dotnetcrud\\dotnet-crud\\views\\brand\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4178D32-39B7-42B8-A095-05D248ED8DE7}|dotnet-crud\\dotnet-crud.csproj|solutionrelative:dotnet-crud\\views\\brand\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4178D32-39B7-42B8-A095-05D248ED8DE7}|dotnet-crud\\dotnet-crud.csproj|e:\\github\\dotnetcrud\\dotnet-crud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4178D32-39B7-42B8-A095-05D248ED8DE7}|dotnet-crud\\dotnet-crud.csproj|solutionrelative:dotnet-crud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4178D32-39B7-42B8-A095-05D248ED8DE7}|dotnet-crud\\dotnet-crud.csproj|e:\\github\\dotnetcrud\\dotnet-crud\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4178D32-39B7-42B8-A095-05D248ED8DE7}|dotnet-crud\\dotnet-crud.csproj|solutionrelative:dotnet-crud\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4178D32-39B7-42B8-A095-05D248ED8DE7}|dotnet-crud\\dotnet-crud.csproj|e:\\github\\dotnetcrud\\dotnet-crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D4178D32-39B7-42B8-A095-05D248ED8DE7}|dotnet-crud\\dotnet-crud.csproj|solutionrelative:dotnet-crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4178D32-39B7-42B8-A095-05D248ED8DE7}|dotnet-crud\\dotnet-crud.csproj|e:\\github\\dotnetcrud\\dotnet-crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4178D32-39B7-42B8-A095-05D248ED8DE7}|dotnet-crud\\dotnet-crud.csproj|solutionrelative:dotnet-crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\GitHub\\DotnetCRUD\\dotnet-crud\\Migrations\\20240813193538_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:dotnet-crud\\Migrations\\20240813193538_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4178D32-39B7-42B8-A095-05D248ED8DE7}|dotnet-crud\\dotnet-crud.csproj|e:\\github\\dotnetcrud\\dotnet-crud\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4178D32-39B7-42B8-A095-05D248ED8DE7}|dotnet-crud\\dotnet-crud.csproj|solutionrelative:dotnet-crud\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4178D32-39B7-42B8-A095-05D248ED8DE7}|dotnet-crud\\dotnet-crud.csproj|e:\\github\\dotnetcrud\\dotnet-crud\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4178D32-39B7-42B8-A095-05D248ED8DE7}|dotnet-crud\\dotnet-crud.csproj|solutionrelative:dotnet-crud\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D4178D32-39B7-42B8-A095-05D248ED8DE7}|dotnet-crud\\dotnet-crud.csproj|e:\\github\\dotnetcrud\\dotnet-crud\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D4178D32-39B7-42B8-A095-05D248ED8DE7}|dotnet-crud\\dotnet-crud.csproj|solutionrelative:dotnet-crud\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -18,11 +50,115 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\GitHub\\DotnetCRUD\\dotnet-crud\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "dotnet-crud\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\GitHub\\DotnetCRUD\\dotnet-crud\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "dotnet-crud\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T19:58:08.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\GitHub\\DotnetCRUD\\dotnet-crud\\Views\\Brand\\Index.cshtml",
+              "RelativeDocumentMoniker": "dotnet-crud\\Views\\Brand\\Index.cshtml",
+              "ToolTip": "E:\\GitHub\\DotnetCRUD\\dotnet-crud\\Views\\Brand\\Index.cshtml*",
+              "RelativeToolTip": "dotnet-crud\\Views\\Brand\\Index.cshtml*",
+              "ViewState": "AQIAABoAAAAAAAAAAAAkwCUAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T19:54:51.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "E:\\GitHub\\DotnetCRUD\\dotnet-crud\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "dotnet-crud\\Controllers\\BrandController.cs",
+              "ToolTip": "E:\\GitHub\\DotnetCRUD\\dotnet-crud\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "dotnet-crud\\Controllers\\BrandController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T19:46:48.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240813193538_InitialMigration.cs",
+              "DocumentMoniker": "E:\\GitHub\\DotnetCRUD\\dotnet-crud\\Migrations\\20240813193538_InitialMigration.cs",
+              "RelativeDocumentMoniker": "dotnet-crud\\Migrations\\20240813193538_InitialMigration.cs",
+              "ToolTip": "E:\\GitHub\\DotnetCRUD\\dotnet-crud\\Migrations\\20240813193538_InitialMigration.cs",
+              "RelativeToolTip": "dotnet-crud\\Migrations\\20240813193538_InitialMigration.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T19:35:38.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\GitHub\\DotnetCRUD\\dotnet-crud\\Program.cs",
+              "RelativeDocumentMoniker": "dotnet-crud\\Program.cs",
+              "ToolTip": "E:\\GitHub\\DotnetCRUD\\dotnet-crud\\Program.cs",
+              "RelativeToolTip": "dotnet-crud\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T18:40:59.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\GitHub\\DotnetCRUD\\dotnet-crud\\appsettings.json",
+              "RelativeDocumentMoniker": "dotnet-crud\\appsettings.json",
+              "ToolTip": "E:\\GitHub\\DotnetCRUD\\dotnet-crud\\appsettings.json",
+              "RelativeToolTip": "dotnet-crud\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-13T19:04:00.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "E:\\GitHub\\DotnetCRUD\\dotnet-crud\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "dotnet-crud\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "E:\\GitHub\\DotnetCRUD\\dotnet-crud\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "dotnet-crud\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T18:54:05.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "E:\\GitHub\\DotnetCRUD\\dotnet-crud\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "dotnet-crud\\Models\\Brand.cs",
+              "ToolTip": "E:\\GitHub\\DotnetCRUD\\dotnet-crud\\Models\\Brand.cs",
+              "RelativeToolTip": "dotnet-crud\\Models\\Brand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T18:41:22.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "E:\\GitHub\\DotnetCRUD\\dotnet-crud\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "dotnet-crud\\Views\\Home\\Privacy.cshtml",
@@ -35,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\GitHub\\DotnetCRUD\\dotnet-crud\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "dotnet-crud\\Views\\Home\\Index.cshtml",
